@@ -10,7 +10,7 @@ spark = SparkSession.builder \
     .getOrCreate()
 #.config("spark.jars", "/Users/hmakhlouf/Desktop/TechCnsltng_WorkSpace/config/postgresql-42.7.2.jar") \
 
-
+# something else
 
 # PostgreSQL connection properties
 postgres_url = "jdbc:postgresql://ec2-3-9-191-104.eu-west-2.compute.amazonaws.com:5432/testdb"
