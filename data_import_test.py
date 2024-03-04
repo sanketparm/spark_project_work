@@ -19,7 +19,7 @@ postgres_properties = {
     "password": "WelcomeItc@2022",
     "driver": "org.postgresql.Driver",
 }
-postgres_table_name = "health-insurance"
+postgres_table_name = "health-insurance1"
 
 
 # Read data from PostgreSQL
